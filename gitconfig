@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = noam.perry@hotmail.com
+	name = Noam Perry
